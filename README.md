@@ -6,9 +6,9 @@
 #only on something like SLIPPER or similiar by size:)
 
 # How it worrrk?
-1. **Python + openCV** #Look at video from ip camera, detection motion contours
-2. **Serial Bridge** #Lib in python that sends signals to the COM port arduino when something detected
-3. **Arduino** #And arduion finnaly, controll 3 red leds , they light on when movement detected
+1.  **Python + openCV** #Look at video from ip camera, detection motion contours
+2.  **Serial Bridge** #Lib in python that sends signals to the COM port arduino when something detected
+3.  **Arduino** #And arduion finnaly, controll 3 red leds , they light on when movement detected
 
 # Hardware
 * Arduino Uno (or any compatible)
