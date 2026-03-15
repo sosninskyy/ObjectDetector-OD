@@ -16,4 +16,4 @@
 * Smartphone as an IP Camera and some app like Ip webcam
 
 #Author
-Young developer, just exploring the world of CV and Robotics.
+sosninsky
