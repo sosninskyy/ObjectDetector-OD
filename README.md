@@ -1,9 +1,9 @@
-# Slipper detector v1.0 & SD
+# Object detector v1.0 
 #Credits: Movement detection logic is based on OpenCV tutorials, adapted and integrated with hardware by me.
 
 #That project was born by hours of work, and end at 5 am
 #It's a movement detector system , dont work on too tiny objects
-#only on something like SLIPPER or similiar by size:)
+
 
 # How it worrrk?
 1.  **Python + openCV** #Look at video from ip camera, detection motion contours
