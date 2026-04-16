@@ -1,8 +1,7 @@
 # Object detector v1.0 
-#Credits: Movement detection logic is based on OpenCV tutorials, adapted and integrated with hardware by me.
+# Movement detection logic is based on OpenCV tutorials, adapted and integrated with hardware by me.
 
-#That project was born by hours of work, and end at 5 am
-#It's a movement detector system , dont work on too tiny objects
+It's a movement detector system , dont work on too tiny objects
 
 
 # How it worrrk?
@@ -15,5 +14,5 @@
 * 3 red LEDs + 3 Resistors 330 ohm or something what dont burn out led
 * Smartphone as an IP Camera and some app like Ip webcam
 
-#Author
-sosninsky
+# Author
+- sosninsky
